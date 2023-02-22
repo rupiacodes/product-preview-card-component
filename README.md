@@ -35,8 +35,8 @@ I've included screenshots for desktop and mobile in the `/screenshots` folder
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://rupiacodes.github.io/product-preview-card-component/)
+- [Solution URL:](https://your-solution-url.com)
+- [Live Site URL:](https://rupiacodes.github.io/product-preview-card-component/)
 
 ## My process
 
